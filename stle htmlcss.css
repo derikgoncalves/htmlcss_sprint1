@@ -1,0 +1,29 @@
+.div_a {
+    background-color: #00fe19; 
+    width: 500px; 
+    height: 500px;
+}
+.div_b {
+    background-color: #372f2a; 
+    width: 250px; 
+    height: 250px;
+}
+.div_c {
+    background-color: rgb(159, 5, 87);
+}
+.paragrafo_c {
+    color: rgb(189, 38, 38); 
+    font-size: 25px; 
+    font-family: monospace; 
+    font-weight: bold;
+}
+.div_d {
+    width:50%; 
+    height:50vh; 
+    background-color: #2e0fb8;
+}
+.div_e {
+    width:75vw; 
+    height:50%; 
+    background-color: #044e29;
+}
